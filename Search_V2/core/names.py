@@ -1,0 +1,2 @@
+PANSTARRS = 'PS'
+SDSS = 'SDSS'
